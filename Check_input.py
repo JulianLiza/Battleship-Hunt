@@ -1,7 +1,7 @@
 """ Set of functions to validate user input.
 
 Written by: Shannon Cleary
-Date: Fall 2022
+Date: Spring 2025
 
 Functions:
 	get_int(prompt) - returns a valid integer (positive or negative).
